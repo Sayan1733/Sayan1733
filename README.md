@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayan1733
 - 👀 I’m interested in game devlopment and app designing and programming
-- 🌱 I’m currently learning Electronics and Communication Engineering 
+- 🌱 I’m currently persuing Electronics and Communication Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kekaduary@gmail.com
 <!---
